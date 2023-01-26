@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567418752849",
+    "project_id": "modular-height-375601",
+    "storage_bucket": "modular-height-375601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567418752849:android:16d68598586d14dca7cd70",
+        "android_client_info": {
+          "package_name": "com.example.fillmedicalrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567418752849-iorf6p58m4em886cb7s97f1qif28u0vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fillmedicalrecord",
+            "certificate_hash": "3f5bdd8e2fed3a8cf554ba0d0bef20c3cbc96efe"
+          }
+        },
+        {
+          "client_id": "567418752849-hrogfhp4dohel19l3ublcpmfhetd5o85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHmxm1E0QbW4sxzXXAlk0uFSe_fYuG7xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567418752849-hrogfhp4dohel19l3ublcpmfhetd5o85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

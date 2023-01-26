@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">fill medical record</string>
+    <string name="please_fill_out_your_child_s_medical_form">Please fill out your child\'s medical form</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="bt">BT</string>
+    <string name="al">AL</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="save">SAVE</string>
+    <string name="health_conditions">Health Conditions</string>
+    <string name="allergies">Allergies</string>
+    <string name="kg">kg</string>
+    <string name="cm">cm</string>
+    <string name="asthma_diabetes">asthma, diabetes...</string>
+    <string name="nuts_fruits">nuts, fruits...</string>
+    <string name="sign_up_btn_text">SIGN UP</string>
+    <string name="signup_text">Enter your email and password, to login with us</string>
+    <string name="signup_sign_up_btn">SIGN UP</string>
+    <string name="signup_sign_in_btn">SIGN IN</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_email">User id</string>
+    <string name="signup_name">Name</string>
+    <string name="google_maps_api_key">AIzaSyAHmxm1E0QbW4sxzXXAlk0uFSe_fYuG7xg</string>
+
+    <string name="sign_in_text">SIGN IN</string>
+    <string-array name="bloodType">
+
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="sections">
+        <item>Sections</item>
+
+        <item>A</item>
+        <item>B</item>
+        <item>c</item>
+
+    </string-array>
+
+    <string-array name="mclasses">
+
+        <item>Classes</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="forward">Hello blank fragment</string>
+    <string name="back">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_user">add_userActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
