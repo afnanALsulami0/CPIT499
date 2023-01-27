@@ -68,11 +68,16 @@ public class homeFragment extends Fragment {
 
                     ArrayList<StudentModel> users =new ArrayList<>();
                     users = response.body().getUsers();
-                    for (int i = 0; i <users.size(); i++ ){
-                        if (Objects.equals(user.getId(), users.get(i).getId())){
-                            muser = users.get(i);
+                    try {
+                        for (int i = 0; i <users.size(); i++ ){
+                            if (Objects.equals(user.getId(), users.get(i).getId())){
+                                muser = users.get(i);
+                            }
                         }
+                    }catch (Exception e){
+                        Log.i("exp",e.getMessage().toString());
                     }
+
                     get_users_data();
 
                 }else {
