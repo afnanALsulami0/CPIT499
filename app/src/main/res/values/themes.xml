@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.FillMedicalRecord" parent="Theme.MaterialComponents.Light.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/teal_200</item>
+        <item name="colorPrimary">@color/</item>
         <item name="colorPrimaryVariant">@color/teal_200</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->

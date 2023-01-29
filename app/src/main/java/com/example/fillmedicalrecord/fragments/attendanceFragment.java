@@ -104,10 +104,6 @@ public class attendanceFragment extends Fragment {
                             Log.i("tessst","test");
 
                         }
-
-
-
-
                     }
 
                 } else {
